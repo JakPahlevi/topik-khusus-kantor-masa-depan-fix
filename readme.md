@@ -1,9 +1,9 @@
-Arif Putra Rochman     - 11210910000033
-Faisal Ahmad Gifari    - 11210910000037
-Leo Alexander          - 11210910000043
-Sajid Fardan Nuazhar   - 11210910000106
-M. Rehza Pahlevi       - 11210910000075
-Farid Muhammad Sopian  - 11210910000091
+Arif Putra Rochman     - (11210910000033)
+Faisal Ahmad Gifari    - (11210910000037)
+Leo Alexander          - (11210910000043)
+Sajid Fardan Nuazhar   - (11210910000106)
+M. Rehza Pahlevi       - (11210910000075)
+Farid Muhammad Sopian  - (11210910000091)
 
 
 ### Syarat:
